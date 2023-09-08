@@ -15,4 +15,4 @@ A game that tested my knowledge in several areas, such as: AI, mathematical know
 # Play the Game!
 
 https://victor-kanai.itch.io/pillow-fight
-// password: rua
+**password: rua**
