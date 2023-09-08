@@ -1,4 +1,4 @@
-# Pillow-Fight
+# Pillow-Fight (Not Finished yet)
 A game made for pillow bashing and throwing
 
 # Descrição:
@@ -11,3 +11,8 @@ A game that tested my knowledge in several areas, such as: AI, mathematical know
 ![Captura de tela 2023-09-05 154211](https://github.com/Victor-Kanai/Pillow-Fight/assets/120500155/df4c029d-38a6-4600-8e91-500c583ccf48)
 
 ![Captura de tela 2023-09-05 154251](https://github.com/Victor-Kanai/Pillow-Fight/assets/120500155/97e98a42-96b7-4df3-b2b2-e0cb1542529f)
+
+# Play the Game!
+
+https://victor-kanai.itch.io/pillow-fight
+password: rua
